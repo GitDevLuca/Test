@@ -1,2 +1,1 @@
-# GRIT-Esports
-GRIT-Esports
+
